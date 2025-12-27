@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 title: "Remote Aerosol Lab"
-date: 2025-12
+date: 2025-12-01
 img: lab_exterior.png
 alt: "Lab"
 project-date: December 2025
