@@ -1,17 +1,17 @@
 ---
 layout: default
 modal-id: 1
-title: "Cabin Project"
-date: 2014-07-18
-img: cabin.png
-alt: "Cabin"
-project-date: April 2014
+title: "Remote Aerosol Lab"
+date: 2025-12
+img: lab_exterior.png
+alt: "Lab"
+project-date: December 2025
 client: Start Bootstrap
-category: Web Development
+category: Structural Engineering
 ---
 <h3>Section 1</h3>
 
-<img src="img/portfolio/cabin.png"
+<img src="img/portfolio/lab_exterior.png"
      class="img-responsive"
      style="float:right; margin:0 0 10px 15px; max-width:300px;"
      alt="Cabin image section 1">
