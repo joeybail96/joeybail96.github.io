@@ -15,11 +15,14 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
+            
+            <!-- Keep the hero image at top if you like -->
             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
-            {% endif %}
-            <ul class="list-inline item-details">
+            
+            <!-- Render full body of the markdown file (where you’ll put your HTML/markdown) -->
+            {{ post.content }}
+            
+            <ul class="list-inline item-details">    
               {% if post.client %}
               <li>Client:
                 <strong>{{ post.client }}</strong>
