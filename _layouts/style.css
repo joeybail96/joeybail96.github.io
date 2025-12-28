@@ -1,16 +1,33 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 
+/* Widen portfolio modals */
 .portfolio-modal .modal-dialog {
-  max-width: 1200px;
-  width: 95%;
+  max-width: 1500px;   /* wider modal */
+  width: 98%;          /* almost full screen */
 }
 
 .portfolio-modal .modal-content {
-  padding: 40px 60px;
+  padding: 40px 70px;  /* comfy padding */
 }
 
+/* Let content breathe across the width */
 .portfolio-modal .modal-body {
-  max-width: 900px;
-  margin: 0 auto;
+  max-width: none;     /* no artificial text width limit */
+}
+
+/* Optional: style the hero image a bit */
+.hero-image {
+  margin-bottom: 30px;
+}
+
+/* Two-column section: text left, image right */
+.project-body .project-split {
+  margin-top: 40px;
+}
+
+.project-body .project-split img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
