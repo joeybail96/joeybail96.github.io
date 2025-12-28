@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: "Design & Deployment of a Remote Aerosol Research Facility"
 date: 2025-12-22
-img: lab_exterior.png
+img: lab_exterior_icon.png
 alt: "Remote Lab"
 project-date: December 2025
 client: University of Utah
