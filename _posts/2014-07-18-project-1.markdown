@@ -7,9 +7,12 @@ img: lab_exterior.png
 alt: "Remote Lab"
 project-date: December 2025
 client: University of Utah
-category: Structural Engineering & Design
+category: "Structural Engineering & Design"
 description: >
-End-to-end development of a remote aerosol research facility, including design and fabrication of a custom inlet system, construction of a container-based lab, and installation of the inlet, structural supports, and instruments at a remote site in the Wasatch Mountains. Delivered from concept to deployment in under five months.
+  End-to-end development of a remote aerosol research facility, including design and
+  fabrication of a custom inlet system, construction of a container-based lab, and
+  installation of the inlet, structural supports, and instruments at a remote site
+  in the Wasatch Mountains. Delivered from concept to deployment in under five months.
 ---
 
 <!-- BELOW: custom layout inside the modal -->
