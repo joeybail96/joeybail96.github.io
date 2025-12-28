@@ -1,2 +1,16 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+.portfolio-modal .modal-dialog {
+  max-width: 1200px;
+  width: 95%;
+}
+
+.portfolio-modal .modal-content {
+  padding: 40px 60px;
+}
+
+.portfolio-modal .modal-body {
+  max-width: 900px;
+  margin: 0 auto;
+}
